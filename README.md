@@ -1,7 +1,7 @@
 A Node.js + Socket.io + Redis realtime app
 ==========================================
 
-A realtime app using node.js, socket.io and redis.
+A realtime app using Node.js, Socket.io and Redis.
 
 1 - Install modules (npm install)
 
