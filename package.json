@@ -1,0 +1,10 @@
+{
+  "name": "realtime-app",
+  "description": "A realtime app using node.js, socket.io and redis",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "*",
+    "socket.io": "*",
+    "redis": "*"
+  }
+}
