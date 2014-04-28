@@ -15,4 +15,6 @@ A realtime app using Node.js, Socket.io and Redis.
 
 6 - Open more browser windows
 
-@todo Implement structure of node.js web application with express
+@todo
+=====
+Implement structure of node.js web application with express
