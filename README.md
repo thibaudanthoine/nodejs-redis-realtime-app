@@ -3,18 +3,38 @@ A Node.js + Socket.io + Redis realtime app
 
 A realtime app using Node.js, Socket.io and Redis.
 
-1 - Install modules (npm install)
+### Installation
 
-2 - Start redis (redis-server)
+1 - Install npm modules:
 
-3 - Start redis monitoring (redis-cli monitor)
+```
+npm install
+```
 
-4 - Start application (node app.js)
+2 - Start redis:
 
-5 - Open a web browser to localhost:3000
+```
+redis-server
+```
 
-6 - Open more browser windows
+3 - Start redis monitoring:
+
+```
+redis-cli monitor
+```
+
+4 - Start node application:
+
+```
+node app.js
+```
+
+5 - Open a web browser to ``localhost:3000``
+
+6 - And open more browser windows...
+
 
 @todo
 =====
-Implement structure of node.js web application with express
+
+### Implement structure of node.js web application with express
