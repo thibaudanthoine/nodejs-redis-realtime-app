@@ -1,15 +1,15 @@
 {
-	"name": "realtime-app",
-	"description": "A realtime app using node.js, socket.io and redis pub/sub",
-	"version": "0.0.2",
-	"homepage": "https://github.com/thibaudanthoine/a-nodejs-redis-realtime-app",
-	"repository": {
-		"type": "git",
-		"url": "git://github.com/thibaudanthoine/a-nodejs-redis-realtime-app.git"
-	},
-	"dependencies": {
-		"express": "4.3.1",
-		"socket.io": "1.0.2",
-		"redis": "0.10.3"
-	}
+  "name": "realtime-app",
+  "description": "A realtime app using node.js, socket.io and redis pub/sub",
+  "version": "0.0.2",
+  "homepage": "https://github.com/thibaudanthoine/a-nodejs-redis-realtime-app",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thibaudanthoine/a-nodejs-redis-realtime-app.git"
+  },
+  "dependencies": {
+    "express": "4.3.1",
+    "socket.io": "1.0.2",
+    "redis": "0.10.3"
+  }
 }
