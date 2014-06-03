@@ -34,7 +34,6 @@ node app.js
 6 - And open more browser windows...
 
 
-@todo
-=====
+## TODO
 
-### Implement structure of node.js web application with express
+* Implement structure of node.js web application with express
