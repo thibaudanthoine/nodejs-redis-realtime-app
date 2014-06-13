@@ -1,5 +1,5 @@
-A Node.js + Socket.io + Redis realtime app
-==========================================
+Node.js + Socket.io + Redis realtime app
+========================================
 
 A realtime app using Node.js, Socket.io and Redis.
 
