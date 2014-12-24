@@ -29,11 +29,11 @@ redis-cli monitor
 node app.js
 ```
 
-5 - Open a web browser to ``localhost:3000``
+5 - Open web browser to ``localhost:3000``
 
 6 - And open more browser windows...
 
 
 ## TODO
 
-* Implement structure of node.js web application with express
+* Implement Express structure for Node.js applications.
